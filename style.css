@@ -259,7 +259,6 @@ ul li {
     display: flex;
 }
 
-
 .icons-socials>div {
     color: white;
     border: 1px solid white;
@@ -273,22 +272,10 @@ ul li {
     font-size: 15px;
 }
 
-.rights{
+.rights {
     width: 275px;
     height: 15px;
-   text-align: center;
+    text-align: center;
     font-size: small;
     margin-left: 1120px;
-}
-
-.attribution {
-    font-size: 11px;
-  
-  display: block;
-  margin: 100px auto;
-    clear :both;
-}
-
-.attribution a {
-    color: hsl(228, 45%, 44%);
 }
